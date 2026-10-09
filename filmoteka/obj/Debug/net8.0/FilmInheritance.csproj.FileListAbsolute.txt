@@ -1,0 +1,14 @@
+/Users/antonbonevmacbook/Desktop/filmoteka/bin/Debug/net8.0/FilmInheritance
+/Users/antonbonevmacbook/Desktop/filmoteka/bin/Debug/net8.0/FilmInheritance.deps.json
+/Users/antonbonevmacbook/Desktop/filmoteka/bin/Debug/net8.0/FilmInheritance.runtimeconfig.json
+/Users/antonbonevmacbook/Desktop/filmoteka/bin/Debug/net8.0/FilmInheritance.dll
+/Users/antonbonevmacbook/Desktop/filmoteka/bin/Debug/net8.0/FilmInheritance.pdb
+/Users/antonbonevmacbook/Desktop/filmoteka/obj/Debug/net8.0/FilmInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonbonevmacbook/Desktop/filmoteka/obj/Debug/net8.0/FilmInheritance.AssemblyInfoInputs.cache
+/Users/antonbonevmacbook/Desktop/filmoteka/obj/Debug/net8.0/FilmInheritance.AssemblyInfo.cs
+/Users/antonbonevmacbook/Desktop/filmoteka/obj/Debug/net8.0/FilmInheritance.csproj.CoreCompileInputs.cache
+/Users/antonbonevmacbook/Desktop/filmoteka/obj/Debug/net8.0/FilmInheritance.dll
+/Users/antonbonevmacbook/Desktop/filmoteka/obj/Debug/net8.0/refint/FilmInheritance.dll
+/Users/antonbonevmacbook/Desktop/filmoteka/obj/Debug/net8.0/FilmInheritance.pdb
+/Users/antonbonevmacbook/Desktop/filmoteka/obj/Debug/net8.0/FilmInheritance.genruntimeconfig.cache
+/Users/antonbonevmacbook/Desktop/filmoteka/obj/Debug/net8.0/ref/FilmInheritance.dll
